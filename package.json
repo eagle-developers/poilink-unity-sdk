@@ -1,0 +1,23 @@
+{
+  "name": "com.poilink.sdk",
+  "version": "1.1.0",
+  "displayName": "Poilink SDK",
+  "description": "Poilink SDK for Unity - Provides user authentication, WebPortal display, mission progress tracking, and account migration features. Supports both iOS and Android.",
+  "unity": "2020.3",
+  "documentationUrl": "https://docs.poilink.com/",
+  "keywords": [
+    "poilink",
+    "sdk",
+    "authentication",
+    "webview",
+    "mission",
+    "account-migration"
+  ],
+  "author": {
+    "name": "Poilink",
+    "email": "support@poilink.com",
+    "url": "https://poilink.com"
+  },
+  "license": "Proprietary",
+  "dependencies": {}
+}

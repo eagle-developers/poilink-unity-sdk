@@ -1,0 +1,18 @@
+{
+  "name": "com.poilink.sdk.editor",
+  "rootNamespace": "Poilink.Editor",
+  "references": [
+    "GUID:97032c324f311814aa7c37d17f056c77"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

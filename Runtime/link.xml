@@ -1,0 +1,5 @@
+<linker>
+  <!-- Managed Stripping Level=High でも SDK の公開 API / native callback delegate /
+       Resources.Load / 動的 AddComponent 経路を保持する。 -->
+  <assembly fullname="com.poilink.sdk" preserve="all"/>
+</linker>
